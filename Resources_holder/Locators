@@ -1,0 +1,3 @@
+Email==Id#"username"
+Password==Id#"password"
+Login_Button==XPath#"(//*[text()='Sign in'])[2]"
